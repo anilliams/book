@@ -1,5 +1,17 @@
 # Chapter 2
 
-It was a **bold** and *italic* night!
+In a democracy, as opposed to a dictatorship, the people make the decisions. They decide what happens, which laws are enacted and how much money is spent. How do they do that? By electing people they trust to do their bidding, because people don't have the time to go and vote themselves everyday, it makes sense that someone is elected that does it for them, someone who is qualified, rational and most of all represents the people that elect them. 
 
-Suddenly, a shot rang out!
+There becomes a problem then, when those who are elected to represent the people, instead represent a political party. They go to to their legislative assembly and vote according to the will of their party leadership, not the will of the people that elected them. How can this be solved?
+
+There is only one true way – representative democracy must go, and in its place, must appear direct democracy. This would be where people get to make their own decisions on things that affect them, where referendums are held for every vote, where everyone gets a say. This is the future, which is odd, because it's a remnant of the past. Direct democracy has already been achieved, in Ancient Greece. Democracy has gone backwards in progress over the last 2000 years.
+
+But we cannot simply transition to direct democracy, there are too many barriers. This idea is “new” to society, it would take years to educate and demystify it. In the mean time, there is a solution. Digital democracy. And this campaign for digital democracy is being spearheaded by a small group of people that run the OpenPolitics Project.
+
+The intention of this Project is to host a Manifesto online, where anyone can suggest policy with no boundaries on who they are. The policy is suggested, discussed by the current contributors and then voted on. If the vote is successful, the policy becomes part of the Manifesto. What happens next is candidates for election stand on what's written in the Manifesto, on the policies that a collective have suggested. These candidates are then elected and enact the people's policies as legislation.
+
+Simple.
+
+The problem is, not enough people are willing to make this early transition to digital democracy. Too many people are constrained with the traditional way of thinking, but how can they possibly think that the status quo is ideal? Don't they ever disagree with their party's policies? Don't they ever think that they have better ideas?
+
+The entire culture of the open world 
