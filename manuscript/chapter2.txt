@@ -1,17 +1,33 @@
-# Chapter 2
+# The Story So Far
 
-In a democracy, as opposed to a dictatorship, the people make the decisions. They decide what happens, which laws are enacted and how much money is spent. How do they do that? By electing people they trust to do their bidding, because people don't have the time to go and vote themselves everyday, it makes sense that someone is elected that does it for them, someone who is qualified, rational and most of all represents the people that elect them. 
+The OpenPolitics Project and Something New have already been on quite a journey, and in this chapter I will try and document that journey partly from what I personally know and what is officially recorded, in news articles and other web sources.
 
-There becomes a problem then, when those who are elected to represent the people, instead represent a political party. They go to to their legislative assembly and vote according to the will of their party leadership, not the will of the people that elected them. How can this be solved?
+The Something New brand was first created in 2013, when Tom Loader and Alex Hilton registered the party name, logo and descriptions with the Electoral Commission. To the best of my knowledge, this project went no further, and the next creation was the OpenPolitics Manifesto in August 2013. The OpenPolitics Manifesto was an idea originally had by James Smith, who never got round to creating it but when it was created, joined in earnest.
 
-There is only one true way – representative democracy must go, and in its place, must appear direct democracy. This would be where people get to make their own decisions on things that affect them, where referendums are held for every vote, where everyone gets a say. This is the future, which is odd, because it's a remnant of the past. Direct democracy has already been achieved, in Ancient Greece. Democracy has gone backwards in progress over the last 2000 years.
+James Smith originally announced his intention to stand for Parliament in Horsham on the OpenPolitics Manifesto in June 2014, and was originally going to stand as an Independent. However, in about September/October 2014, the Something New brand was revived for the purpose of standing James Smith under a party banner. 
 
-But we cannot simply transition to direct democracy, there are too many barriers. This idea is “new” to society, it would take years to educate and demystify it. In the mean time, there is a solution. Digital democracy. And this campaign for digital democracy is being spearheaded by a small group of people that run the OpenPolitics Project.
+A resolute message was posted on Something New's website (www.somethingnew.org.uk) on 16 September, announcing clearly their intentions: "A manifesto of policies is not a buffet to choose from as a consumer of politics, it is an illustration of a party’s values. And when so few of these promises are honoured by any party it only illustrates that the mainstream political parties are detached from their values.
 
-The intention of this Project is to host a Manifesto online, where anyone can suggest policy with no boundaries on who they are. The policy is suggested, discussed by the current contributors and then voted on. If the vote is successful, the policy becomes part of the Manifesto. What happens next is candidates for election stand on what's written in the Manifesto, on the policies that a collective have suggested. These candidates are then elected and enact the people's policies as legislation.
+So we will do things differently. We will develop policy openly and will welcome good ideas from any source. And we’ll also develop a manifesto of national policies. But we won’t hold our candidates to them. If a candidate thinks there’s a better policy they will be free to advocate it publicly as long as they remain within our values.
 
-Simple.
+That’s why it’s essential that make our values plain at the outset. This is what we believe is missing in politics and if you believe so too – if you share our values – then we hope you’ll join us and be part of Something New."
 
-The problem is, not enough people are willing to make this early transition to digital democracy. Too many people are constrained with the traditional way of thinking, but how can they possibly think that the status quo is ideal? Don't they ever disagree with their party's policies? Don't they ever think that they have better ideas?
+On 1 October, Paul Robinson, a Conservative Town Councillor for Godalming Central and Ockford ward on Godalming Town Council, "defected" to the party. Writing about the defection on Something New's website, he said: "We hope giving you greater control over your democracy will excite you as much as it did the people of Scotland last week. We will be contesting elections next year across the South East, and we’d love your help. Whether you’re a disillusioned member of a legacy party, or if you’ve never even thought about politics before, we’re looking for your support. We need candidates to stand for election. We also need leaflet deliverers and volunteers including video bloggers, poster designers, podcasters, photographers and writers….it’s a long list, and it’s going to be extremely challenging. Please get in touch, and help us build Something New where you live."
 
-The entire culture of the open world 
+The movement was building, or at the very least it was building in Surrey. On 12 October they appealed for a candidate to stand in the Rochester and Strood by-election, to be held on 20 November, although nothing came to fruition. In that by-election, Mark Reckless retained his seat as a Member of Parliament for UKIP, instead of the Conservatives, with a majority of just under 3,000. If Something New had stood a candidate, perhaps there would have been a different outcome. Who knows?
+
+James Smith continued to write letters to the local (Horsham) paper, the West Sussex County Times, on topics as widely varying as disability and how UKIP are just a continuation of the status quo. It was on 1 February 2015 that one of the most significant aspects of James Smith's campaign took place - the incumbent MP and Minister for the Cabinet Office, Francis Maude, announced that he was stepping down.
+
+This meant two things - firstly, James Smith would be up against not an experienced MP and Minister, but rather a new and inexperienced Conservative candidate, propelled into Horsham because it is what is considered a "safe seat". Secondly, it would mean that James was not contesting someone who had set up a large amount of the funding that the Open Data Institute, his workplace, had received, which was a plus.
+
+Following Maude's announcement, James left a particularly poignant call-to-action on the website: "Let's take democracy forward, not consign ourselves to another 20 years of being a comfy chair for Tory loyalists, leaving us without a voice."
+
+And so, the movement began to build. James Smith spoke at one of the Open Data Institute's Lunchtime Lectures about the project and his intention to stand for Parliament. The lecture, which was called "Data for Democracy", can be viewed on YouTube and the transcript is available at Something New's SayIt.
+
+On 19 March 2015, Something New became unofficially allied with the Whig Party, led by former Army officer Waleed Ghani. Another new party, they stood four candidates in the end, with no candidates getting more than 250 votes.
+
+On 26 March 2015, Something New was officially registered with the Electoral Commission.
+
+On May 7th, people went to the ballot boxes across the country, and it did not take long before the votes were in. James Smith came 6th in Horsham, winning 375 votes (0.7%), and Paul Robinson came 7th in South West Surrey winning 320 votes (0.6%). Paul Robinson got 480 votes in the Godalming Central and Ockford ward on Waverley Borough Council, and also received 680 votes in the Godalming Central ward on Godalming Town Council. Rebecca Robinson, Paul Robinson's wife, got 350 votes in Godalming Charterhouse ward on Godalming Town Council.
+
+But that was not the end.
