@@ -1,3 +1,10 @@
 # The Philosophy
 
+"There must be absolute freedom in the selection of representatives; secondly, the representatives must be strictly responsible to their constituents and to no one else; thirdly, the representatives must deliberate in perfect freedom, and especially must be absolutely independent of the Executive."
+Hilaire Belloc, The Party System
+
 Open politics, open source, democracy, elections, re-engagement
+
+There is a reason the manifesto is called the OpenPolitics Project, and that is because the intention is to create open politics. Both literally, by introducing radical transparency and closing out backroom deals, but also more metaphorically, by applying the open source and open data doctrines to politics as a whole.
+
+James Smith, the leader of Something New, as part of a lunchtime lecture on the future of open data at the Open Data Institute in December 2014, said "
